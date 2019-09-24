@@ -3,9 +3,11 @@
 
 **github.com/xt0fer/CollegeTowns-ZCWD**
 
-This is a data wrangling (data cleaning) activity.
+This is a data wrangling (data cleaning) activity. It is an intermediate lab.
 
 Create code that Returns a DataFrame of towns and the states they are in from the university_towns.txt list. The format of the DataFrame should be something like: DataFrame( [ ["Michigan", "Ann Arbor"], ["Michigan", "Yipsilanti"] ], columns=["State", "RegionName"]  )
+
+Yes, you are making a frame that has lots of copies of the state names in it.
     
 The following cleaning needs to be done:
 
