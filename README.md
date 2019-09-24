@@ -1,7 +1,7 @@
 #  CollegeTowns-ZCWD
 ### College Towns by State
 
-**github.com/xt0fer/unstructured_data_university_towns**
+**github.com/xt0fer/CollegeTowns-ZCWD**
 
 This is a data wrangling (data cleaning) activity.
 
@@ -24,3 +24,5 @@ analysis.ipynb: Jupiter notebook that imports the raw unstructured dataset, perf
 #### Extra Credit
 
 add a column which contains the name(s) of the school in each region `columns=["State", "RegionName", "Schools"]`
+
+source ref: https://github.com/bot13956/unstructured_data_university_towns
